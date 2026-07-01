@@ -1,2 +1,13 @@
 ctrl + shift + p  >>  to open commands palette
 ctrl + shift + i  >>  to format code
+ctrl + `          >>  to open terminal 
+ctrl + shift + y  >>  to open debug console
+
+
+>> intially to upload file to repo
+
+copy paste the github code and execute 
+git add .
+git comment -m 'enter your message'
+git push
+
